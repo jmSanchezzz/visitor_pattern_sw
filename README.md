@@ -27,7 +27,7 @@ This project implements the **Visitor Design Pattern** to handle different opera
 
 ## UML Class Diagram
 
-![alt text](image-1.png)
+<img width="743" height="449" alt="image" src="https://github.com/user-attachments/assets/a8d05b46-977c-409d-9494-6775af6d88a6" />
 
 ## Key Components
 
